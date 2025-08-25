@@ -47,10 +47,10 @@
 ---
 
 ## 🏅 Certifications  
-- ✅ Advanced Power BI (Certification)  
-- ✅ SQL (Certification)  
-- ✅ Tableau (Certification)  
-- 🏅 Virtual Internships: Deloitte, Tata (Forage)  
+- ✅ Advanced Power BI (Mitravijay-Viji/Power-Bi-Completion-certificate)  
+- 🏅 Virtual Internships Deloitte(Forage): Mitravijay-Viji/Deloitte-Forage-Certificate
+- 🏅 Virtual Internships Tata (Forage): Mitravijay-Viji/Tata-Forage-Certificate
+
 
 ---
 
