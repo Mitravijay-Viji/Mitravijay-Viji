@@ -26,31 +26,38 @@
 
 ### 🛒 Blinkit Grocery Sales Analysis (Power BI)  
 📊 Built a dashboard analyzing sales by **outlet size, item type, fat content & city tiers**.  
-👉 *[Mitravijay-Viji/Blinkit-Grocery-Sales-Analysis-Report](#)* | *[Screenshots](#)*  
+👉 [Repository](https://github.com/Mitravijay-Viji/Blinkit-Grocery-Sales-Analysis-Report) | [Screenshots](https://github.com/Mitravijay-Viji/Blinkit-Grocery-Sales-Analysis-Report/tree/main/screenshots)  
+
+---
 
 ### 🚖 Uber Trip Analysis (Power BI)  
 🔍 Analyzed trip data to find **average trip time, peak demand hours, and high-revenue zones**.  
-👉 *[ Mitravijay-Viji/Uber-Analysis](#)*   
+👉 [Repository](https://github.com/Mitravijay-Viji/Uber-Analysis)  
+
+---
 
 ### 📦 Amazon Sales Analysis (Power BI)  
 📈 Created KPIs for **YTD, QTD sales, reviews, and category contribution**.  
-👉 *[Mitravijay-Viji/Amazon-Product-Sales-Analysis-Report](#)*  
+👉 [Repository](https://github.com/Mitravijay-Viji/Amazon-Product-Sales-Analysis-Report)  
+
+---
 
 ### 🎵 SQL Projects (Digital Music Store & Retail Sales)  
 🛠 SQL queries to analyze **top customers, product demand, and high-revenue categories**.  
-👉 *[Mitravijay-Viji/SQL-projects--Digital-Music-Store-Analysis-Retail-Sales-Analysis](#)*  
+👉 [Repository](https://github.com/Mitravijay-Viji/SQL-projects--Digital-Music-Store-Analysis-Retail-Sales-Analysis)  
+
+---
 
 ### 👩‍💼 HR Analytics Dashboard (Tableau)  
 📊 Designed a Tableau dashboard to analyze **attrition, demographics & job satisfaction**.  
 👉 [Live Dashboard](https://public.tableau.com/views/FinalTableaudashboard/HRANALYTICSDASHBOARD)  
-
 ---
 
 ## 🏅 Certifications  
-- ✅ Advanced Power BI (Mitravijay-Viji/Power-Bi-Completion-certificate)  
-- 🏅 Virtual Internships Deloitte(Forage): Mitravijay-Viji/Deloitte-Forage-Certificate
-- 🏅 Virtual Internships Tata (Forage): Mitravijay-Viji/Tata-Forage-Certificate
 
+- ![Power BI](https://img.shields.io/badge/Advanced-Power%20BI-blue?logo=Power-BI) [Certificate](https://github.com/Mitravijay-Viji/Power-Bi-Completion-certificate)  
+- ![Deloitte](https://img.shields.io/badge/Virtual%20Internship-Deloitte-green?logo=deloitte) [Certificate](https://github.com/Mitravijay-Viji/Deloitte-Forage-Certificate)  
+- ![Tata](https://img.shields.io/badge/Virtual%20Internship-Tata-orange?logo=accut) [Certificate](https://github.com/Mitravijay-Viji/Tata-Forage-Certificate)  
 
 ---
 
