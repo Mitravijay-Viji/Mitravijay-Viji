@@ -26,7 +26,7 @@
 
 ### 🛒 Blinkit Grocery Sales Analysis (Power BI)  
 📊 Built a dashboard analyzing sales by **outlet size, item type, fat content & city tiers**.  
-👉 [Repository](https://github.com/Mitravijay-Viji/Blinkit-Grocery-Sales-Analysis-Report) | [Screenshots](https://github.com/Mitravijay-Viji/Blinkit-Grocery-Sales-Analysis-Report/tree/main/screenshots)  
+👉 [Repository](https://github.com/Mitravijay-Viji/Blinkit-Grocery-Sales-Analysis-Report)   
 
 ---
 
