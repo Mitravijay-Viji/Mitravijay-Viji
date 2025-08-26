@@ -4,10 +4,15 @@
 
 ---
 
+<img width="1200" height="400" alt="Hi I am Vijay Laxmi (1)" src="https://github.com/user-attachments/assets/474308b2-544d-4ec2-8a7c-9d983e0adc91" />
+
+
+
+
 ## 👩‍💻 About Me  
 - Passionate about converting raw data into clear, actionable insights and dashboards.  
 - Proficient in **Power BI, SQL, Excel, Tableau, and Python**.  
-- Hands-on experience delivering end-to-end analytics for **sales, trip, Amazon/retail, and HR datasets**.  
+- Hands-on experience delivering end-to-end analytics for **Sales, trip, Amazon/retail,and HR datasets**.  
 - Strong at KPI definition, data storytelling, and translating analysis into business recommendations.  
 - Seeking opportunities as a **Data Analyst / Business Analyst**; open to collaborations.  
 
